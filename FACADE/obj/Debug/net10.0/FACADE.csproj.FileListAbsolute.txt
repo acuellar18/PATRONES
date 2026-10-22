@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\bin\Debug\net10.0\FACADE.exe
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\bin\Debug\net10.0\FACADE.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\bin\Debug\net10.0\FACADE.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\bin\Debug\net10.0\FACADE.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\bin\Debug\net10.0\FACADE.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\refint\FACADE.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\FACADE.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\FACADE\obj\Debug\net10.0\ref\FACADE.dll

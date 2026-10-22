@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\bin\Debug\net10.0\ADAPTER.exe
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\bin\Debug\net10.0\ADAPTER.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\bin\Debug\net10.0\ADAPTER.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\bin\Debug\net10.0\ADAPTER.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\bin\Debug\net10.0\ADAPTER.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\refint\ADAPTER.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ADAPTER.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\ADAPTER\obj\Debug\net10.0\ref\ADAPTER.dll

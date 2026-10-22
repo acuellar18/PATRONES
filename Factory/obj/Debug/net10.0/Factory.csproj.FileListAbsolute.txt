@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\bin\Debug\net10.0\Factory.exe
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\bin\Debug\net10.0\Factory.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\bin\Debug\net10.0\Factory.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\bin\Debug\net10.0\Factory.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\bin\Debug\net10.0\Factory.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\refint\Factory.dll
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\Factory.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\EXPODESARROLOWEB\Factory\obj\Debug\net10.0\ref\Factory.dll
